@@ -1,3 +1,3 @@
 ## 🎥 Demo Video
 
-[▶ Click here to watch the demo](https://github.com/Teja-29-max/Testing/blob/main/demo.mp4)
+[![Watch the demo on YouTube](https://img.youtube.com/vi/pWSLmNn9L2w/0.jpg)](https://youtu.be/pWSLmNn9L2w)
